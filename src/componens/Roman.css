@@ -1,0 +1,20 @@
+#box{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 12px;
+    margin: 10px;
+    padding: 10px;
+    background-color: lightgra;
+}
+#egesz{
+    text-align: center;
+}
+#terulet{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around
+}
+#kereso{
+    padding: 5px;
+    width: 70%;
+}
